@@ -1,5 +1,5 @@
 def quicksort(S):
-    #基线条件
+    # Baseline 
     if len(S) < 2:
         return S
     else:

@@ -1,3 +1,6 @@
+# Reference: Grokking Algorithms: An illustrated guide for programmers and other curious people
+# Aditya Bhargava
+
 def bin_search(data,element):
     l = 0
     r = len(data) - 1

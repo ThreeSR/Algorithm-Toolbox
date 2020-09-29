@@ -1,3 +1,6 @@
+# Reference: Grokking Algorithms: An illustrated guide for programmers and other curious people
+# Aditya Bhargava
+
 def quicksort(S):
     # Baseline 
     if len(S) < 2:
